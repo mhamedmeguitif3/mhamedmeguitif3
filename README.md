@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mhamed
+- 👋 Hi, I’m M'hamed
 - 👀 I’m interested in web dev 
 - 🌱 I’m currently learning angular 
 - 💞️ I’m looking to collaborate on angular project 
